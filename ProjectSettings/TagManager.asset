@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lumberjack
+  - SpawnPoint1
+  - SpawnPoint2
+  - SpawnPoint3
+  - SpawnPoint4
+  - SpawnPoint5
+  - SpawnPoint6
+  - SpawnPoint7
+  - SpawnPoint8
+  - SpawnPoint9
+  - SpawnPoint10
+  - SpawnPoint11
+  - Tier1Tree
+  - Tier2Tree
+  - Tier3Tree
+  - Tier4Tree
+  - Tier5Tree
+  - Tier6Tree
+  - Wood
+  - SpawnPoint12
+  - MarketTrigger
+  - Money
+  - StorageTrigger
+  - RightToLeft
+  - LetfToRight
+  - Car
+  - Gem
+  - CarpenterMoney
+  - miner1
+  - miner2
+  - miner3
+  - miner4
+  - lumberjackhouse
+  - trade
+  - factory
+  - miner1.1
+  - miner2.1
+  - miner3.1
+  - miner4.1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - worldSpace
+  - PostProcess
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: worldspace
+    uniqueID: 2660061037
+    locked: 0
